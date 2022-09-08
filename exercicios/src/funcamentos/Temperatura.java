@@ -13,5 +13,4 @@ public class Temperatura {
         System.out.println("A temperatura em Celsius é: " + celsius);
 
     }
-    
 }
