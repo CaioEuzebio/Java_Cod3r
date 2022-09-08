@@ -11,6 +11,7 @@ public class Temperatura {
         double farenheit = 86.0;
         double celsius = (farenheit - AJUSTE) * FATOR;
         System.out.println("A temperatura em Celsius é: " + celsius);
+        System.out.println(farenheit + AJUSTE);
 
     }
 }
