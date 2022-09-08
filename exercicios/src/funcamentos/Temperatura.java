@@ -14,3 +14,5 @@ public class Temperatura {
 
     }
 }
+
+// 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
