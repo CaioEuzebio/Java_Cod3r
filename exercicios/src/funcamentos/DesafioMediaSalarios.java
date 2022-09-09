@@ -23,7 +23,7 @@ public class DesafioMediaSalarios {
         double somaSalarios = valor1 + valor2 + valor3;
 
         System.out.println("A media salarial é de: "+ somaSalarios/3);
-
+        
         entrada.close();
     }
 }
