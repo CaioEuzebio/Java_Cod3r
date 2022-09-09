@@ -1,4 +1,4 @@
-package funcamentos;
+package fundamentos;
 
 import javax.security.auth.Destroyable;
 
