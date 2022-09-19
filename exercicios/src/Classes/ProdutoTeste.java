@@ -9,7 +9,9 @@ public class ProdutoTeste {
         p1.preco = 4150.92;
         p1.desconto = .10;
 
-        System.out.printf("O Produto é o: %s, O Preço é de: R$ %s",p1.nome , p1.preco);
+        System.out.printf("\nO Produto é o: %s, O Preço é de: R$ %s",p1.nome , p1.preco);
+
+        System.out.printf("\nO Preço do %s com desconto é R$ %s",p1.nome, p1.precoComDesconto());
      
     }
     
